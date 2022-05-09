@@ -1,0 +1,24 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NDook/nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NDook/nodeJS/issues"
+  },
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
+
